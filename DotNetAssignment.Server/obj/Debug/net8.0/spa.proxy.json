@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:4200",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "D:\\assignment\\DotNetAssignment\\DotNetAssignment.Server\\..\\dotnetassignment.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

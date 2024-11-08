@@ -1,0 +1,1 @@
+D:\assignment\DotNetAssignment\dotnetassignment.client\obj\Debug\dotnetassignment.client.esproj.CoreCompileInputs.cache

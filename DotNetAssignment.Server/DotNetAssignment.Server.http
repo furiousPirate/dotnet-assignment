@@ -1,0 +1,6 @@
+@DotNetAssignment.Server_HostAddress = http://localhost:5213
+
+GET {{DotNetAssignment.Server_HostAddress}}/api/
+Accept: application/json
+
+###
